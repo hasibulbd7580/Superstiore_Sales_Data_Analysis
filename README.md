@@ -90,8 +90,21 @@ The dataset contains sales transaction records, including:
 
 ## Dashboard Preview
 
-![Dashboard](https://github.com/hasibulbd7580/Data_Analysis_Dashboard/blob/main/Screenshot%20(32).png)
-![Dashboard](https://github.com/hasibulbd7580/Data_Analysis_Dashboard/blob/main/Screenshot%20(33).png)
+- https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/Average%20Days%20to%20shipping.png
+-https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/Category%20wise%20Sales%2CProfit%2C%20Profit_%20Margin.png
+- https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/KPIs.png
+- https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/Month%20wise%20Sales%2C%20Profit.png
+- https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/Month%20wise%20Sales%2C%20Profit.png
+- https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/Profit%20wise%20Top%20and%20Bottom%205%20States.png
+- https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/Profit_Margin%20by%20Sub_Category.png
+- https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/Qunatity%20Sold%20by%20Discount.png
+- https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/Sales%2CProfit%20wise%20Top%2010%20Country.png
+- https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/Segment%20wise%20Sales%2CProfit%2C%20Proft_Margin.png
+- https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/Ship%20Mode%20Wise%20Distribution.png
+- https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/Slaes%20Vs%20Profit%20by%20Discount%20.png
+- https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/Top%2010%20Customers.png
+- https://github.com/hasibulbd7580/Superstiore_Sales_Data_Analysis/blob/main/Year%20wise%20Sales%2CProfit%2CProfit_Margin(%25).png
+
 
 
 ## Dataset Source
@@ -100,7 +113,7 @@ The dataset contains sales transaction records, including:
 
 ## Conclusion
 
-This project analyzes sales data to identify key trends in countries, products, and yearly performance. The dashboard helps visualize business performance and supports data-driven decision-making.
+This project analyzes sales data to identify key trends in countries, products,yearly performance,Monthly Profit, Discount wise Profit Margin, Top Profitable Countires, Top Profitable States, Top and Worst Profitable Products. The dashboard helps visualize business performance and supports data-driven decision-making.
 
 ## Author
 
